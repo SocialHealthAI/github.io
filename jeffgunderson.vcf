@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gunderson;Jeff;;;
+FN:Jeff Gunderson
+ORG:BI Discover
+ADR;TYPE=WORK:2876 St. Route 132
+New Richmond OH 45157
+TITLE:Data Science Consultant | Fellow
+TEL;TYPE=CELL:513312-0067
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:jeff@bidiscover.com
+URL;TYPE=Digital Business Card:https://socialhealthai.github.io/github.io/
+URL:
+URL;TYPE=GitHub:https://github.com/jgunderson
+URL;TYPE=LinkedIn:https://linkedin.com/in/jeffgunderson
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:I enjoy helping organizations leverage data and artificial intelligence to make a positive impact in the world. Experience includes data science, data architecture, software engineering and team leadership.I am currently a lead fellow for Delta Analytics and previously the enterprise data architect for St. Elizabeth Healthcare.
+UID:EnBizCard-100193086
+END:VCARD
